@@ -1,0 +1,14 @@
+lib/src/lib.rs
+  h_fddbafe85ec91e 1183,1186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ae03a6984a47eb28745c3eddef708c94ed9c1e70",
+  "prompts": {},
+  "humans": {
+    "h_fddbafe85ec91e": {
+      "author": "Marsman1996 <lqliuyuwei@outlook.com>"
+    }
+  }
+}
